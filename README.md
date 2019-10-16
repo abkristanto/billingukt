@@ -40,5 +40,9 @@ Pilihan menu untuk keluar program.
 
 Menampilkan menu untuk memberi panduan dalam menggunakan program.
 
+### Data Tersimpan
+
+Data tersimpan di dalam file database yang memungkinkan data tetap tersimpan setelah program ditutup. Hal ini memungkinkan untuk penggunaan program dalam jangka panjang karena pengguna yang telah menginput datanya tidak akan hilang setelah program ditutup kembali. 
+
 
 
