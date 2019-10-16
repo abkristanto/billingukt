@@ -1,4 +1,4 @@
-# billingukt
+# Billing System UKT
 Mini Project Pemrograman Lanjut (Advanced Programming)
 
 No Kelompok : 2 
@@ -9,7 +9,7 @@ Nama  : Yusuf Abraham Bismo Kristanto & Vincentius Indra Lithgow
 
 NPM   : 1806200274                    & 1806200362 
 
-## Deskripsi Proyek
+### Deskripsi Proyek
 Bagian Proyek:
 
 1.Menambahkan Data Baru
