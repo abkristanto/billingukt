@@ -32,11 +32,14 @@ Pembayaran dilakukan dengan memasukkan nominal biaya yang ingin dibayarkan, kemu
 
 Mencari data digunakan untuk mencari data dari pengguna program yang telah memasukkan datanya terlebih dahulu.
 
-6.Keluar
+6. Hapus Data
+Dapat menghapus semua data yang telah tersimpan di dalam file yang telah disimpan sehingga mampu untuk mengulang program dari awal apabila diinginkan.
+
+7.Keluar
 
 Pilihan menu untuk keluar program.
 
-7.Bantuan
+8.Bantuan
 
 Menampilkan menu untuk memberi panduan dalam menggunakan program.
 
